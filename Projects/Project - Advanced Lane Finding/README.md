@@ -1,3 +1,5 @@
+# Short Gif of my attempt at Harder Challenge Problem
+
 <img src="https://github.com/SeymurD/Udacity-Self-Driving-Car-Engineer-ND/blob/master/Projects/Project%20-%20Advanced%20Lane%20Finding/final_videos_gif/harder_challenge_final.gif" width="600" height="169"/>
 
 The Project
