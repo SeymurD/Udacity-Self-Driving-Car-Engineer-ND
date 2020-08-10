@@ -1,3 +1,4 @@
+#include <cmath>
 #include "cost.h"
 
 double inefficiency_cost(int target_speed, int intended_lane, int final_lane, 
