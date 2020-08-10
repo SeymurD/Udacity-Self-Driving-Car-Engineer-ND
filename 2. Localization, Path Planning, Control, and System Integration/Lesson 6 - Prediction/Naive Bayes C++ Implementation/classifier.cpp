@@ -1,7 +1,8 @@
-#include "classifier.h"
 #include <math.h>
 #include <string>
 #include <vector>
+
+#include "classifier.h"
 
 using Eigen::ArrayXd;
 using std::string;
